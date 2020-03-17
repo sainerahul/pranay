@@ -1,0 +1,19 @@
+.preLogin{
+    margin-top: 15%;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    width: 20%;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: black;
+    border: 2px solid black;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+.btn:hover{
+    background: rgba(7, 53, 31, 0.801);
+    color: white;
+}

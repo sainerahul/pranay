@@ -1,0 +1,28 @@
+.profile{
+    margin: auto;
+    margin-top: 3%;
+    width: 80%;
+    border:  3px solid rgba(7, 53, 31, 0.801);
+    border-radius: 30px;
+    padding: 10px;
+}
+.details{
+    margin: auto;
+    font-size: 20px;
+    width:100%;
+    font-weight: bold;
+}
+.column{
+    text-align: left;
+    padding: 40px;
+    width:100%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.row{
+    padding: 40px;
+    border-bottom: 3px dashed black;
+}
+.row:nth-child(odd){
+    background-color: rgba(7, 53, 31, 0.091);
+}

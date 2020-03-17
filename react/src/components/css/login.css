@@ -1,0 +1,38 @@
+.login{
+    margin-left: 30%;
+    align-items: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top:10%;
+    width:30%;
+    padding: 100px;;
+    background-color: rgb(211, 205, 205);
+    border-radius: 50px;
+}
+.inputs{
+    width: 120%;
+    padding: 4px;
+    font-size: 108%;
+}
+.button{
+    display: block;
+    width:200px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-left: 30%
+}
+.button:hover{
+    background: rgba(7, 53, 31, 0.801);
+    color: white;
+}
+td {
+    padding-bottom: 1em;
+}
+.message{
+    font-size: 80%;
+    margin-top:0px;
+    font-style: italic;
+    color: rgb(221, 45, 14);
+}

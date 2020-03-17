@@ -1,0 +1,20 @@
+.display
+{
+    /* border: 1px solid rgba(7,53,31,0.801);
+    width: 50%; */
+    margin: auto;
+    margin-top: 1%;
+    width: 80%;
+    border:  3px solid rgba(7, 53, 31, 0.801);
+    border-radius: 30px;
+    padding: 10px;
+}
+.table{
+    float: left;
+}
+.display >tr>button{
+    width:50px
+}
+.heading{
+    text-transform: capitalize;
+}

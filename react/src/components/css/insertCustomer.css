@@ -1,0 +1,29 @@
+.signup{
+    margin-left: 30%;
+    align-items: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top:10%;
+    width:30%;
+    padding: 100px;;
+    background-color: rgb(211, 205, 205);
+    border-radius: 50px;
+}
+.txtbox{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.button{
+    display: block;
+    width:200px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-left: 30%
+}

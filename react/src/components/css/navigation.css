@@ -1,0 +1,17 @@
+.navigation{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    min-height: 8vh;
+    background: rgba(7, 53, 31, 0.801);
+    color:white;
+  }
+  .nav-links{
+    justify-content: space-around;
+    width:30%;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 140%;
+    font-style: italic;
+  }

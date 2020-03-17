@@ -1,0 +1,38 @@
+
+.cart_table{
+    float: right;
+    width: 44%;
+    font-size: 20px;
+    border:  3px solid rgba(7, 53, 31, 0.801);
+    border-radius: 30px;
+    padding: 2%;
+}
+.medicines{
+    float: left;
+    width: 44%;
+    font-size: 20px;
+    border:  3px solid rgba(7, 53, 31, 0.801);
+    border-radius: 30px;
+    padding: 2%;
+}
+.med_table_cart{
+    margin: auto;
+    width:85%;
+}
+.med_table_cart tr:nth-child(even), .cus_med_table tr:nth-child(even){
+    background-color: rgba(7, 53, 31, 0.091);
+}
+tr{
+    border-bottom: 2px dashed black;
+}
+th{
+    font-size: 18px;
+}
+.cus_med_table{
+    margin: auto
+}
+.mainContainer{
+    margin-left:2%;
+    margin-right:2%;
+    margin-top: 2%;
+}
